@@ -13,7 +13,6 @@ var colorsSet = [
   { selector: "cp2", selectedColor: "#ffffff" },
   { selector: "cp3", selectedColor: "#ffffff" },
 ];
-// console.log(cp1);
 cp2.style.display = "none";
 cp3.style.display = "none";
 
